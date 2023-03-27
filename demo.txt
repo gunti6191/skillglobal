@@ -1,1 +1,1 @@
-Git intro Hello world
+This is same file but in different branch (not in default master branch)
